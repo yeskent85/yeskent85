@@ -5,7 +5,7 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 
 <img align="right" alt="GIF" src="https://github.com/devgod1007/devgod1007/blob/main/busyprogrammer.gif?raw=true" width="50%" height="auto" />
 
-:small_blue_diamond: :muscle: As a professional full stack developer, have over 7 years of experience in the web field.
+:small_blue_diamond: :muscle: As a professional full stack developer, have over 8+ years of experience in the web field.
 
 :small_blue_diamond: 🤔 I’m looking to help with building web apps and Defi 
 
