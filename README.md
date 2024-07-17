@@ -1,17 +1,17 @@
 # Welcome
 
-Am a senior Full-Stack & Blockchain developer who likes to work with JavaScript/Typescript (React, Angular, Vue.js, Golang, Node, Nest), Blockchain(Solana, Terra, Ethereum), Python among others.
+Am a senior Backend & Blockchain developer who likes to work with C++, Python, JavaScript, Rust and Blockchain(Solana, Terra, Ethereum).
 Since I've graduated the university, I’ve joined several companies and dev teams to build web and defi apps.
 
 <img align="right" alt="GIF" src="https://github.com/devgod1007/devgod1007/blob/main/busyprogrammer.gif?raw=true" width="50%" height="auto" />
 
-:small_blue_diamond: :muscle: As a professional full stack developer, have over 8+ years of experience in the web field.
+:small_blue_diamond: :muscle: As a professional backend developer, have over 7+ years of experience in backend and blockchain field.
 
 :small_blue_diamond: 🤔 I’m looking to help with building web apps and Defi 
 
-:small_blue_diamond: 💬 Ask me about web and blockchain development
+:small_blue_diamond: 💬 Ask me about backend and blockchain development
 
-:small_blue_diamond: 📫 How to reach me: devgod1007@outlook.com
+:small_blue_diamond: 📫 How to reach me: fedtom901230@gmail.com
 
 ### Languages and Tools:
 
