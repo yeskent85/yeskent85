@@ -1,6 +1,6 @@
 # Welcome
 
-Am a senior Backend & Blockchain developer who likes to work with C++, Python, JavaScript, Rust and Blockchain(Solana, Terra, Ethereum).
+Am a senior Backend & Blockchain engineer who likes to work with C++, Python, JavaScript, Rust and Blockchain(Solana, Terra, Ethereum).
 Since I've graduated the university, I’ve joined several companies and dev teams to build web and defi apps.
 
 <img align="right" alt="GIF" src="https://github.com/devgod1007/devgod1007/blob/main/busyprogrammer.gif?raw=true" width="50%" height="auto" />
@@ -57,7 +57,7 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devgod1007&theme=onedark)](https://github.com/devgod611/devgod611)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devgod1007&theme=onedark)](https://github.com/devgod1007)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devgod1007&theme=onedark)](https://git.io/streak-stats)
 
