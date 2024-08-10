@@ -11,7 +11,7 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 
 :small_blue_diamond: 💬 Ask me about backend and blockchain development
 
-:small_blue_diamond: 📫 How to reach me: fedtom901230@gmail.com
+:small_blue_diamond: 📫 How to reach me: kenttanaka4@gmail.com
 
 ### Languages and Tools:
 
@@ -56,8 +56,4 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=devgod1007&theme=onedark)](https://github.com/devgod1007)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devgod1007&theme=onedark)](https://git.io/streak-stats)
 
